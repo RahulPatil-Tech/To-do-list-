@@ -30,9 +30,9 @@ ws.mainloop() holds the screen so that we can see the window. It is an infinite 
 Step 3: Creating a frame
 n this section we will understand why we have used frames as a first widget in our code.
 
-1.Frame widgets are used to hold other widgets.
-2.They help in keeping & maintaining user interface (UI) & user experience (UX) clean & organized.
-3.Moving forward we will place Listbox, scrollbars & buttons inside the frame.
+1.Frame widgets are used to hold other widgets.\n
+2.They help in keeping & maintaining user interface (UI) & user experience (UX) clean & organized.\n
+3.Moving forward we will place Listbox, scrollbars & buttons inside the frame.\n
 4.So in this way frame will act as an additional window over the parent window.
 5.Another benefit of placing a frame is now we will add scrollbars to the frame and that solves our purpose.
 6.Scrollbars are no easy to place but using frames we can do it in no time.
