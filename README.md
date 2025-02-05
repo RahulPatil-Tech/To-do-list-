@@ -64,8 +64,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ------
 
 # 📩 Contact
-## 👤 Rahul Patil
-### 📧 Email: rp3252154#gmail.com
-### 🔗 LinkedIn: your-linkedin-profile
+👤 Rahul Patil</br>
+📧 Email: rp3252154#gmail.com</br>
+🔗 LinkedIn: [Rahul Patil](https://www.linkedin.com/in/rahul-patil-4bb533209)</br>
+
+----
 
 Made with ❤️ by [Your Name] 🚀
